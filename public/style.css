@@ -1,0 +1,23 @@
+
+h1, h2, h3, p {
+	color: #E76F34 !important;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif !important;
+	 position: relative;
+}
+
+.mainDetails{
+	text-align: center;
+}
+
+nav{
+	height: 65px !important;
+}
+
+img {
+  position: relative;
+  z-index: 0;
+}
+
+.mainDetails{
+
+}
